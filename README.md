@@ -1,5 +1,7 @@
 # CSS Grid Layout - Website Wildbeast
 
+## Project with study purpose
+
 
 
 ## ![imageOne](https://github.com/therruner/CSS-Grid-Layout/blob/master/PhotoOne.png)
