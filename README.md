@@ -15,7 +15,7 @@ CSS Grid Layout is a new specification of CSS and it came to solve practically a
 
 #### 1 - Run git clone
 
-https: git clone https://github.com/therruner/DisplayingLocal-weather.git
+https: git clone https://github.com/therruner/GridLayout-CSS.git
 
 #### 2 - Open a project folder
 
